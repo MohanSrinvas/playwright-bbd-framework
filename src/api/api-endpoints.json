@@ -1,0 +1,9 @@
+{
+  "productsList": "/productsList",
+  "searchProduct": "/searchProduct",
+  "verifyLogin": "/verifyLogin",
+  "createAccount": "/createAccount",
+  "updateAccount": "/updateAccount",
+  "deleteAccount": "/deleteAccount",
+  "getUserDetailByEmail": "/getUserDetailByEmail"
+}

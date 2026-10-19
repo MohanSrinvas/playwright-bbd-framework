@@ -1,0 +1,28 @@
+{
+  "login": {
+    "invalidEmail": "invalid.user@example.invalid",
+    "invalidPassword": "incorrect-password"
+  },
+  "account": {
+    "name": "Playwright QA User",
+    "password": "Automation123!",
+    "title": "Mr.",
+    "birthDay": "10",
+    "birthMonth": "5",
+    "birthYear": "1990",
+    "firstName": "Playwright",
+    "lastName": "QA",
+    "company": "QA Automation",
+    "address": "10 Test Avenue",
+    "address2": "",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "postalCode": "560001",
+    "mobileNumber": "9876543210"
+  },
+  "products": {
+    "searchTerm": "Blue Top",
+    "missingSearchTerm": "No Such Product 92741"
+  }
+}

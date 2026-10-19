@@ -1,0 +1,6 @@
+node_modules/
+reports/
+screenshots/
+allure-results/
+package-lock.json
+docs/architecture.md

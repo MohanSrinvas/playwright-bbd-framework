@@ -1,0 +1,27 @@
+{
+  "search": {
+    "matchingTerm": "top",
+    "noMatchTerm": "DefinitelyMissingProduct92741"
+  },
+  "account": {
+    "password": "Automation123!",
+    "details": {
+      "name": "Playwright API User",
+      "title": "Mr",
+      "birth_date": "10",
+      "birth_month": "5",
+      "birth_year": "1990",
+      "firstname": "Playwright",
+      "lastname": "API",
+      "company": "QA Automation",
+      "address1": "10 Test Avenue",
+      "address2": "",
+      "country": "India",
+      "zipcode": "560001",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "mobile_number": "9876543210"
+    },
+    "updatedFirstname": "UpdatedPlaywright"
+  }
+}
